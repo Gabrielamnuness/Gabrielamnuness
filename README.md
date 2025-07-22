@@ -11,5 +11,5 @@
       <a href="https://github.com/Gabrielamnuness">
          <img alt="GitHub" title="Meu Perfil" src=https://img.icons8.com/?size=53&id=fmFqQmR0UdsR&format=png&color=000000></a>
       <a href="https://discordapp.com/users/gabrielamonteiro_90356">
-         <img alt="Discord" title="Me adicione no Discord" src=https://img.icons8.com/?size=43&id=n35VW8czPq4Q&format=png&color=000000></a>
+         <img alt="Discord" title="Me adicione no Discord" src=https://img.icons8.com/?size=40&id=n35VW8czPq4Q&format=png&color=000000></a>
    </p>
