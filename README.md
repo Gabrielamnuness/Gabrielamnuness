@@ -30,7 +30,6 @@
 align="left" 
 alt="GitHub Stats" 
 height="200"
-style="padding-right:10px;" 
 src="https://github-readme-stats.vercel.app/api?username=Gabrielamnuness&show_icons=true&theme=tokyonight&incluide_all_commits=true&locale=pt-br" 
 /> 
 
@@ -40,7 +39,6 @@ src="https://github-readme-stats.vercel.app/api?username=Gabrielamnuness&show_ic
 align="left" 
 alt="GitHub Stats" 
 height="200" 
-style="padding-right:10px;" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielamnuness&theme=tokyonight" />  
    
 </p>
