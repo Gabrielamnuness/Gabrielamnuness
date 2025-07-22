@@ -9,7 +9,7 @@
    ### Connect with me
 
    [![LinkedIn](https://img.shields.io/badge/In/Gabriela-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/gabrielamonteiron/)
-   [![Instagram](https://img.shields.io/badge/@_gabrielamonteiro_90356-fff?style=flat&logo=discord&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.discord.com/gabrielamonteiro_90356/)
+   [![Instagram](https://img.shields.io/badge/@gabrielamonteiro_90356-fff?style=flat&logo=discord&logoColor=FFFFFF&labelColor=8b7bdf)](https://discord.com/channels/gabrielamonteiro_90356)
   
 
    ### 🤖 Linguagens e Tecnologias 
