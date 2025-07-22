@@ -6,11 +6,11 @@
 
 **Sou estudante de Análise e Desenvolvimento de Sistemas pela UNINTER, com sólida experiência anterior nas áreas administrativa, atendimento ao cliente e CRM. Atualmente estou em transição de carreira para a área de tecnologia, estou focada no desenvolvimento backend com Python, participando de bootcamps e criando projetos práticos disponíveis no meu GitHub.**
 
+   ### Connect with me
 
    [![LinkedIn](https://img.shields.io/badge/in/Gabriela-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/gabrielamonteiron/)
    [![Instagram](https://img.shields.io/badge/@_gabrielamnuness-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.instagram.com/elicosmaker/)
-  ### Connect with me
-
+  
 
    ### 🤖 Linguagens e Tecnologias 
 
