@@ -24,8 +24,22 @@
 
    ### 📊 Estatísticas
 
+<p>
+<img 
+align="left" 
+alt="GitHub Stats" 
+height="200"
+style="padding-right:10px;" 
+src="https://github-readme-stats.vercel.app/api?username=Gabrielamnuness&show_icons=true&theme=tokyonight&incluide_all_commits=true&locale=pt-br" 
+/> 
 
-<img align="left" alt="GitHub Stats" width="300px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=Gabrielamnuness&show_icons=true&theme=tokyonight&incluide_all_commits=true&locale=pt-br" />  
+<br>
 
-
+<img 
+align="left" 
+alt="GitHub Stats" 
+height="200" 
+style="padding-right:10px;" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielamnuness" />  
    
+</p>
