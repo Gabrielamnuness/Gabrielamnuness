@@ -13,3 +13,11 @@
       <a href="https://discordapp.com/users/gabrielamonteiro_90356">
          <img alt="Discord" title="Me adicione no Discord" src=https://img.icons8.com/?size=42&id=n35VW8czPq4Q&format=png&color=000000></a>
    </p>
+
+   ### 🤖 Linguagens e Tecnologias 
+
+   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+   <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+       
