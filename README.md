@@ -8,8 +8,8 @@
 
    ### Connect with me
 
-   [![LinkedIn](https://img.shields.io/badge/in/Gabriela-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/gabrielamonteiron/)
-   [![Instagram](https://img.shields.io/badge/@_gabrielamnuness-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.instagram.com/gabrielamnuness/)
+   [![LinkedIn](https://img.shields.io/badge/In/Gabriela-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/gabrielamonteiron/)
+   [![Instagram](https://img.shields.io/badge/@_gabrielamonteiro_90356-fff?style=flat&logo=discord&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.discord.com/gabrielamonteiro_90356/)
   
 
    ### 🤖 Linguagens e Tecnologias 
