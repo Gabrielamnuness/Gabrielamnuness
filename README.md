@@ -7,9 +7,9 @@
 
    <p align="left">
       <a href="https://www.linkedin.com/in/gabrielamonteiron/">
-         <img alt="LinkedIn" title="Se conecte comigo no LinkedIn" src=https://img.icons8.com/?size=50&id=13930&format=png&color=000000</a> 
+         <img alt="LinkedIn" title="Se conecte comigo no LinkedIn" src=https://img.icons8.com/?size=50&id=13930&format=png&color=000000></a> 
       <a href="https://github.com/Gabrielamnuness">
-         <img alt="GitHub" title="Meu Perfil" src=https://img.icons8.com/?size=53&id=fmFqQmR0UdsR&format=png&color=000000
-      <a href="https://discord.com/channels/@me">
-         <img alt="Discord" title="Me adicione no Discord" src=https://img.icons8.com/?size=45&id=n35VW8czPq4Q&format=png&color=000000</a>
+         <img alt="GitHub" title="Meu Perfil" src=https://img.icons8.com/?size=53&id=fmFqQmR0UdsR&format=png&color=000000></a>
+      <a href="https://discordapp.com/users/gabrielamonteiro_90356">
+         <img alt="Discord" title="Me adicione no Discord" src=https://img.icons8.com/?size=45&id=n35VW8czPq4Q&format=png&color=000000></a>
    </p>
