@@ -1,12 +1,12 @@
  <h2>
-	<span>Hello! I'm Gabriela Monteiro </span>
+	<span>Olá! Eu sou Gabriela Monteiro </span>
 </h2>
 
 **`Desenvolvedora`**  
 
 **Sou estudante de Análise e Desenvolvimento de Sistemas pela UNINTER, com sólida experiência anterior nas áreas administrativa, atendimento ao cliente e CRM. Atualmente estou em transição de carreira para a área de tecnologia, estou focada no desenvolvimento backend com Python, participando de bootcamps e criando projetos práticos disponíveis no meu GitHub.**
 
-   ### Connect with me
+   ### Conecte-se comigo
 
    [![LinkedIn](https://img.shields.io/badge/In/Gabriela-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/gabrielamonteiron/)
    [![Instagram](https://img.shields.io/badge/@gabrielamonteiro_90356-fff?style=flat&logo=discord&logoColor=FFFFFF&labelColor=8b7bdf)](https://discord.com/channels/gabrielamonteiro_90356)
