@@ -4,7 +4,7 @@
 
 **`Desenvolvedora`**  
 
-**Sou estudante de Análise e Desenvolvimento de Sistemas pela UNINTER, com sólida experiência anterior nas áreas administrativas, atendimento ao cliente e CRM. Atualmente estou em transição de carreira para a área de tecnologia, estou focada no desenvolvimento Full-Stack, participando de bootcamps e criando projetos práticos disponíveis no meu GitHub.**
+**Sou estudante de Análise e Desenvolvimento de Sistemas pela UNINTER, com sólida experiência anterior nas áreas administrativas, atendimento ao cliente e CRM. Atualmente estou em transição de carreira para a área de tecnologia, estou focada no desenvolvimento Full-Stack, além da graduação, estou participando de bootcamps e criando projetos práticos disponíveis no meu GitHub.**
 
    ### Conecte-se comigo
 
