@@ -1,11 +1,14 @@
  <h2>
 	<span>Hello, I'm Gabriela Monteiro! </span>
+
+   **`Desenvolvedora`**  
+   
 </h2>
  <h4>
 	<span>Developer in transition | Full Stack | Degree in Systems Analysis and Development | HTML • CSS • JavaScript • C# • Python • Git • GitHub • N8N • Excel with AI | Bootcamps and real projects </span>
 </h4>
 
-**`Desenvolvedora`**  
+
 
 **I'm transitioning my career, focusing on full-stack development. I'm currently studying Systems Analysis and Development and immersed in bootcamps and practical training, applying what I learn to real-world projects with JavaScript, C#, Python, HTML, CSS, Git, and GitHub.**
 
