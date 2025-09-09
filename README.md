@@ -7,26 +7,23 @@
 
 **`Desenvolvedora`**  
 
-**I'm transitioning my career, focusing on full-stack development. I'm currently studying Systems Analysis and Development and immersed in bootcamps and practical training, applying what I learn to real-world projects with JavaScript, C#, Python, HTML, CSS, Git, and GitHub.
+**I'm transitioning my career, focusing on full-stack development. I'm currently studying Systems Analysis and Development and immersed in bootcamps and practical training, applying what I learn to real-world projects with JavaScript, C#, Python, HTML, CSS, Git, and GitHub.**
 
-I have prior experience in administrative environments, which has given me an analytical perspective, a focus on organization, and efficient solutions—skills I now apply to technology. I've also explored automation with Excel and Artificial Intelligence, optimizing processes in a practical way.
+**I have prior experience in administrative environments, which has given me an analytical perspective, a focus on organization, and efficient solutions—skills I now apply to technology. I've also explored automation with Excel and Artificial Intelligence, optimizing processes in a practical way.**
 
-On GitHub, I keep my projects up to date, organize documentation with Markdown, and always strive to learn collaboratively.
+**On GitHub, I keep my projects up to date, organize documentation with Markdown, and always strive to learn collaboratively.**
 
-📌 Currently focused on:
+**📌 ## Currently focused on:**
 
-Full-stack Development
+• Full-stack Development
 
-Interactive web projects
+• Interactive web projects
 
-Automation
+• Automation
 
-Active participation in bootcamps and tech communities
+• Active participation in bootcamps and tech communities
 
-I'm seeking opportunities that allow me to grow in the technology field, collaborate on projects, and evolve as a full-stack developer.
-
-💻 GitHub: github.com/Gabrielamnuness
-📩 dev.gabrielamonteiro@gmail.com
+*I'm seeking opportunities that allow me to grow in the technology field, collaborate on projects, and evolve as a full-stack developer.*
 
    ### Conecte-se comigo
 
