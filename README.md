@@ -1,12 +1,13 @@
  <h2>
 	<span>Hello, I'm Gabriela Monteiro! </span>
 </h2>
+ <h4>
+	<span>Developer in transition | Full Stack | Degree in Systems Analysis and Development | HTML • CSS • JavaScript • C# • Python • Git • GitHub • N8N • Excel with AI | Bootcamps and real projects </span>
+</h4>
 
 **`Desenvolvedora`**  
 
 **I'm transitioning my career, focusing on full-stack development. I'm currently studying Systems Analysis and Development and immersed in bootcamps and practical training, applying what I learn to real-world projects with JavaScript, C#, Python, HTML, CSS, Git, and GitHub.**
-
-**I have prior experience in administrative environments, which has given me an analytical perspective, a focus on organization, and efficient solutions—skills I now apply to technology. I've also explored automation with Excel and Artificial Intelligence, optimizing processes in a practical way.**
 
 **On GitHub, I keep my projects up to date, organize documentation with Markdown, and always strive to learn collaboratively.**
 
