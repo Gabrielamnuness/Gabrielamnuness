@@ -1,10 +1,32 @@
  <h2>
-	<span>Olá! Eu sou Gabriela Monteiro </span>
+	<span>Hello, I'm Gabriela Monteiro! </span>
+</h2>
+ <h2>
+	<span>Developer in transition | Full Stack | Degree in Systems Analysis and Development | HTML • CSS • JavaScript • C# • Python • Git • GitHub • N8N • Excel with AI | Bootcamps and real projects </span>
 </h2>
 
 **`Desenvolvedora`**  
 
-**Sou estudante de Análise e Desenvolvimento de Sistemas pela UNINTER, com sólida experiência anterior nas áreas administrativas, atendimento ao cliente e CRM. Atualmente estou em transição de carreira para a área de tecnologia, estou focada no desenvolvimento Full-Stack. E, além da graduação, estou participando de bootcamps e criando projetos práticos disponíveis no meu GitHub.**
+**I'm transitioning my career, focusing on full-stack development. I'm currently studying Systems Analysis and Development and immersed in bootcamps and practical training, applying what I learn to real-world projects with JavaScript, C#, Python, HTML, CSS, Git, and GitHub.
+
+I have prior experience in administrative environments, which has given me an analytical perspective, a focus on organization, and efficient solutions—skills I now apply to technology. I've also explored automation with Excel and Artificial Intelligence, optimizing processes in a practical way.
+
+On GitHub, I keep my projects up to date, organize documentation with Markdown, and always strive to learn collaboratively.
+
+📌 Currently focused on:
+
+Full-stack Development
+
+Interactive web projects
+
+Automation
+
+Active participation in bootcamps and tech communities
+
+I'm seeking opportunities that allow me to grow in the technology field, collaborate on projects, and evolve as a full-stack developer.
+
+💻 GitHub: github.com/Gabrielamnuness
+📩 dev.gabrielamonteiro@gmail.com
 
    ### Conecte-se comigo
 
